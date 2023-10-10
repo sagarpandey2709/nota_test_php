@@ -1,12 +1,12 @@
 # nota_test_php
 
-**Task 1**
+# **Task 1**
 Create  script that should find all files in the /datafiles folder with names consisting of numbers and letters of the Latin alphabet, having the .ixt extension/
 Display the names of these files, ordered by name.
 Using regular expressions would be an advantage
 Please comment the code in PHPDocumentor style.
 
-**Task 2**
+# **Task 2**
 Create script for downloading the page https://www.wikipedia.org/, extract headings, abstracts, pictures, links from the page part with sections, save it in the wiki_sections table, which has the following structure:
 
 id integer, auto-incremental
@@ -20,7 +20,7 @@ abstract string no more than 256 characters, unique
 
 Please comment the code in PHPDocumentor style.
 
-**Task 3**
+# **Task 3**
 Create PHP class  TableCreator.
 Should be impossible to create a descendant from this class, the class should consist of 3 methods:
 
