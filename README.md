@@ -1,4 +1,9 @@
 # nota_test_php
+- Please place your solutions in separated files:
+task1.php - for Task 1
+task2.php - for Task 2
+task3.php - for Task 3
+- Please comment the code in PHPDocumentor style.
 
 # **Task 1**
 Create  script that should find all files in the /datafiles folder with names consisting of numbers and letters of the Latin alphabet, having the .ixt extension/
