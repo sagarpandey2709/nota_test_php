@@ -14,6 +14,8 @@ url string no more than 240 characters, unique
 picture string no more than 240 characters, unique
 abstract string no more than 256 characters, unique
 
+![image](https://github.com/mskozhanova/nota_test_php/assets/17182091/e5fc6f7c-6c17-440b-90fc-19a23c46fd33)
+
 Please comment the code in PHPDocumentor style.
 
 3) Create PHP class  TableCreator.
