@@ -1,8 +1,8 @@
 # nota_test_php
 - Please place your solutions in separated files:
-task1.php - for Task 1
-task2.php - for Task 2
-task3.php - for Task 3
+  - task1.php - for Task 1
+  - task2.php - for Task 2
+  - task3.php - for Task 3
 - Please comment the code in PHPDocumentor style.
 
 # **Task 1**
